@@ -8,5 +8,5 @@ def fun3():
     return 1
 
 def fun4():
-	print("something going to commit (user1)")
+	print("something going to commit (from my notebook)")
 fun1()
