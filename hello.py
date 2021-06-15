@@ -10,4 +10,8 @@ def funLaptop():
 def fundesktop2():
 	a = [1,2,34,5]
 	return a
+
+def fundesktop3():
+	ab = [1,2,34,5]
+	return ab
 fun1()
