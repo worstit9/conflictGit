@@ -4,4 +4,6 @@ def fun1():
 def fundesktop():
 	print("from desktop")
 
+def funLaptop():
+    print("from laptop")
 fun1()
