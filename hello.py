@@ -1,9 +1,13 @@
 def fun1():
     print("hello first commit")
     
-def fun2():
-    print("hello fun2 new branch")
+def fundesktop():
+	print("from desktop")
 
-def fun3():
-    return 1
+def funLaptop():
+    print("from laptop")
+
+def fundesktop2():
+	a = [1,2,34,5]
+	return a
 fun1()
