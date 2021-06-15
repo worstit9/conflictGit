@@ -14,4 +14,8 @@ def fundesktop2():
 def fundesktop3():
 	ab = [1,2,34,5]
 	return ab
+
+def fundesktop4():
+	abc = [1]
+	return abc
 fun1()
