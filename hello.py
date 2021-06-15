@@ -6,4 +6,7 @@ def fun2():
 
 def fun3():
     return 1
+
+def fun4():
+	print("something going to commit (user1)")
 fun1()
