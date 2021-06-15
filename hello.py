@@ -9,4 +9,5 @@ def fun3():
 
 def fun4():
 	print("something going to commit (user1)")
+	print("some another message")
 fun1()
