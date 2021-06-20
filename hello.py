@@ -5,7 +5,7 @@ def fundesktop():
 	print("from desktop")
 
 def funLaptop():
-    print("from laptop")
+    print("from lappp top")
 
 def fundesktop2():
 	a = [1,2,34,5]
